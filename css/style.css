@@ -1614,7 +1614,7 @@ section {
 
 .margin-15px-bottom {margin-bottom:15px}
 
-.margin-20px-bottom {margin-bottom:20px}
+.margin-20px-bottom {margin-bottom:0px}
 
 .margin-25px-bottom {margin-bottom:25px}
 
@@ -2972,7 +2972,7 @@ section {
 
 .padding-four-half-tb {padding-top:4.5%; padding-bottom:4.5%;}
 
-.padding-five-tb {padding-top:5%; padding-bottom:5%;}
+.padding-five-tb {padding-top:1%; padding-bottom:1%;}
 
 .padding-five-half-tb {padding-top:5.5%; padding-bottom:5.5%;}
 
